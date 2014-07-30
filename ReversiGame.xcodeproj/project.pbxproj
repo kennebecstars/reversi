@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1C5604111989519600DF5012 /* ReversiGame 2.xcscheme in Resources */ = {isa = PBXBuildFile; fileRef = 1C5604101989519600DF5012 /* ReversiGame 2.xcscheme */; };
 		72347606167601BE00185647 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 72347605167601BE00185647 /* main.m */; };
 		7234760A167604FA00185647 /* MulticastDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 72347609167604FA00185647 /* MulticastDelegate.m */; };
 		72A5A03E1671D8F600AF63F4 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 72A5A03D1671D8F600AF63F4 /* UIKit.framework */; };
@@ -60,6 +61,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		1C5604101989519600DF5012 /* ReversiGame 2.xcscheme */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = "ReversiGame 2.xcscheme"; sourceTree = "<group>"; };
 		72347605167601BE00185647 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		72347608167604FA00185647 /* MulticastDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MulticastDelegate.h; sourceTree = "<group>"; };
 		72347609167604FA00185647 /* MulticastDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MulticastDelegate.m; sourceTree = "<group>"; };
@@ -201,6 +203,7 @@
 		72A5A0441671D8F600AF63F4 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				1C5604101989519600DF5012 /* ReversiGame 2.xcscheme */,
 				72347605167601BE00185647 /* main.m */,
 				72A5A0451671D8F600AF63F4 /* ReversiGame-Info.plist */,
 				72A5A0461671D8F600AF63F4 /* InfoPlist.strings */,
@@ -360,6 +363,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1C5604111989519600DF5012 /* ReversiGame 2.xcscheme in Resources */,
 				72A5A0481671D8F600AF63F4 /* InfoPlist.strings in Resources */,
 				CC7F548E1792988F00732CBE /* phone-title@2x.png in Resources */,
 				72A5A0501671D8F600AF63F4 /* Default.png in Resources */,
