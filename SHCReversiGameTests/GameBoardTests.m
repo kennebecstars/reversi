@@ -20,7 +20,7 @@
 {
     [super setUp];
 
-    _board = [[GameBoard alloc] init]; //init
+    _board = [[GameBoard alloc] init]; //init 2
 }
 
 - (void)tearDown
